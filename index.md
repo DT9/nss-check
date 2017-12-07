@@ -64,7 +64,8 @@
                 let str = `${firm} = ${min} - ${max}`;
                 let match1 = min.includes(inp);
                 let match2 = max.includes(inp);
-                if (match1 || match2) {
+                let match3 = (s >= min && s <= max)
+                if (match1 || match2 || match3) {
                     res.push(str);
                 }
             }
