@@ -1,6 +1,5 @@
-## Nintendo Switch Serial Firmware Quick Search
 Based off gbatemp data found [here](https://gbatemp.net/threads/switch-firmware-by-serial-number.481215/).
-Last updated 12/7/2017
+Last updated on 12/7/2017
 <input id='main' class='main' placeholder="eg. XAW100006" maxlength="9">
 <ul id="valid"></ul>
 <script>
